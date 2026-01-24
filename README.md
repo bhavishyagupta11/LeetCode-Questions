@@ -11,4 +11,4 @@ This repository contains my daily LeetCode problem solutions in C++.
 - C++
 
 ## Progress
-- Day 001: Get Descent Periods of Stock Prices
+- Day 001: 100
