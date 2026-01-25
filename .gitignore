@@ -1,5 +1,8 @@
-*.exe
-*.out
-*.o
-.vscode/
-.vs/
+# Ignore everything
+*
+
+# Do not ignore gitignore itself
+!.gitignore
+
+# Allow only LeetCode C++ files
+!LC*.cpp
