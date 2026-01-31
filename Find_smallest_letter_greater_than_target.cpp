@@ -1,4 +1,4 @@
-leetCode - Find_smallest_letter_greater_than_target
+LeetCode - Find_smallest_letter_greater_than_target
 
 class Solution {
 public:
