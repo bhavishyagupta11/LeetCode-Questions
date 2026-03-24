@@ -1,3 +1,5 @@
+// LC 2096 - Prefix + Suffix -> Concept Used
+
 class Solution {
 public:
     vector<vector<int>> constructProductMatrix(vector<vector<int>>& grid) {
