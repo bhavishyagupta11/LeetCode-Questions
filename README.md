@@ -11,5 +11,5 @@ This repository contains my daily LeetCode problem solutions in C++.
 - C++
 
 ## Progress
-- Day 001: 100
+- Day 001: 200
 - Solving POTD Questions and building Streak there.
