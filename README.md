@@ -3,7 +3,7 @@
 This repository contains my daily LeetCode problem solutions in C++.
 
 ## Goal
-- Solve at least 1 problem daily
+- Solve at least 1 problem daily (Daily Leetcode POTD)
 - Improve DSA + problem solving
 - Build a strong GitHub profile
 
