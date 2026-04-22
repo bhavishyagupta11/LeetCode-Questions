@@ -1,3 +1,5 @@
+// Brute Force Solution 
+// Optimal will be updated soon
 class Solution {
 public:
     vector<string> twoEditWords(vector<string>& queries, vector<string>& dictionary) {
