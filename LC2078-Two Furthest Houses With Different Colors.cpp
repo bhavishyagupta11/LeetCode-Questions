@@ -1,5 +1,6 @@
 // LC - 2078 - Two Furthest Houses with Different Colors
 
+// Tc - O(n)
 class Solution {
 public:
     int maxDistance(vector<int>& colors) {
@@ -18,7 +19,7 @@ public:
         return maxIndex;
     }
 };
-
+// O(2n) - Two Pass Solution
 // class Solution {
 // public:
 //     int maxDistance(vector<int>& colors) {
@@ -41,7 +42,7 @@ public:
 //     }
 // };
 
-
+// O(n^2) - Brute Force
 // class Solution {
 // public:
 //     int maxDistance(vector<int>& colors) {
