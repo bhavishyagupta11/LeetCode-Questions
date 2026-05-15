@@ -1,3 +1,6 @@
+#include <bits/stdc++.h>
+using namespace std;
+
 class Solution {
 public:
     void dfs(int node, vector<vector<int>>& isConnected, int n, vector<bool>& visited) {
